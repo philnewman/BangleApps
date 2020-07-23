@@ -45,7 +45,7 @@ const dx = 25;
 // font size and color
 const fontSize = 3;  // "6x8"
 const passivColor = 0x3186 /*grey*/ ;
-const activeColor = 0xF800 /*red*/ ;
+const activeColor = 0xFFFF /*white*/ ;
 
 function drawWordClock() {
 
