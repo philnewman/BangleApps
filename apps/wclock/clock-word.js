@@ -52,6 +52,9 @@ function drawWordClock() {
   // get time
   var t = new Date();
   var h = t.getHours();
+  if (h > 12) {
+    h = h - 12;
+  }
   var m = t.getMinutes();
   var time = ("0" + h).substr(-2) + ":" + ("0" + m).substr(-2);
 
