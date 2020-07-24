@@ -1,1 +1,3 @@
 0.02: Modified for use with new bootloader and firmware
+0.03: Changed text color to white
+0.04: Forced 12 hour time for digital display
