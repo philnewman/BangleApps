@@ -184,7 +184,7 @@
   { "id": "wclock",
     "name": "Word Clock",
     "icon": "clock-word.png",
-    "version":"0.02",
+    "version":"0.04",
     "description": "Display Time as Text",
     "tags": "clock",
     "type":"clock",
